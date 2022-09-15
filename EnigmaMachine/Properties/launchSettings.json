@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EnigmaMachine": {
+      "commandName": "Project",
+      "commandLineArgs": "привет"
+    }
+  }
+}
